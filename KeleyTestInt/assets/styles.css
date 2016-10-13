@@ -1,0 +1,50 @@
+header {
+    background-color: whitesmoke;
+}
+
+body {
+    background-image: linear-gradient(orange, #ffcd00);
+
+}
+
+Footer {
+    background-color: orange;
+}
+
+.reduc {
+    font-size: small;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.engagement {
+    background-color: white;
+    color: black;
+    padding: 20px;
+"
+}
+
+.firstBlock {
+    background-color: white;
+    color: black;
+    padding: 20px;
+}
+
+.rappelOffre {
+    background-color: white;
+    color: black;
+    padding: 20px;
+}
+
+.container {
+    background-color: #f6ee60;
+    height: 50px;
+}
+
+max-width: valeur
+
+;
